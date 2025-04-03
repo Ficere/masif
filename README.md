@@ -74,7 +74,7 @@ The following is the list of required libraries and programs, as well as the ver
 * [Python](https://www.python.org/) (3.6)
 * [reduce](http://kinemage.biochem.duke.edu/software/reduce.php) (3.23). To add protons to proteins. 
 * [MSMS](http://mgltools.scripps.edu/packages/MSMS/) (2.6.1). To compute the surface of proteins. 
-* [BioPython](https://github.com/biopython/biopython) (1.66) . To parse PDB files. 
+* [BioPython](https://github.com/biopython/biopython) (1.79) . To parse PDB files. 
 * [PyMesh](https://github.com/PyMesh/PyMesh) (0.1.14). To handle ply surface files, attributes, and to regularize meshes.
 * PDB2PQR (2.1.1), multivalue, and [APBS](http://www.poissonboltzmann.org/) (1.5). These programs are necessary to compute electrostatics charges.
 * [open3D](https://github.com/IntelVCL/Open3D) (0.5.0.0). Mainly used for RANSAC alignment.
